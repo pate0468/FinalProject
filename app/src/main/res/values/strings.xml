@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FinalProject</string>
+    <string name="enter_route_number">Enter route number</string>
+    <string name="bus_number">Bus number</string>
+    <string name="success">Enter</string>
+    <string name="error">Cancel</string>
 </resources>
