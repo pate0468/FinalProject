@@ -31,9 +31,6 @@ public class OCTranspoBusRouteApp extends Activity {
         int snackTime = Snackbar.LENGTH_LONG;
         String message = "Welcome to OCTranspo";
 
-
-
-
         Snackbar snackbar = Snackbar.make(findViewById(R.id.coordinateLayout),message,snackTime);
         snackbar.show();
 

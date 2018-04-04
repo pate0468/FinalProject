@@ -39,7 +39,9 @@
 
     <ListView
         android:layout_width="match_parent"
-        android:layout_height="match_parent" >
+        android:layout_height="461dp"
+        android:layout_alignParentBottom="true"
+        android:layout_above="@+id/button5">
 
 
     </ListView>
